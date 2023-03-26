@@ -1,16 +1,1 @@
-# flutterapp
-
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Lifehack is a term used to describe any strategy, technique, or shortcut that increases productivity and efficiency. Lifehacks can range from simple tasks such as organizing your workspace to more complex strategies such as using technology to automate mundane tasks. Lifehacks can also include lifestyle changes such as getting enough sleep, eating healthy, and exercising regularly.
